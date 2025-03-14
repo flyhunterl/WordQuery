@@ -4,6 +4,12 @@
 
 如需使用语音功能需要对 gewechat 源码进行以下修改： 详细教程可参考：[SearchMusic教程的语音配置部分](https://rq4rfacax27.feishu.cn/wiki/L4zFwQmbKiZezlkQ26jckBkcnod?fromScene=spaceOverview)
 
+
+![20250314_162701_973_copy](https://github.com/user-attachments/assets/827a3a79-fb80-4700-9633-abfb2e9ad5c8)
+
+
+
+
 1. 安装依赖
 
 # 安装处理音频文件的必要依赖
