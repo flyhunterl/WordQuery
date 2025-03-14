@@ -1,5 +1,6 @@
 # WordQuery 单词查询插件
 
+**大家帮忙点点star 谢谢啦!**
 这是一个用于查询英语单词的dow插件，可以提供单词的详细解释和发音。
 
 如需使用语音功能需要对 gewechat 源码进行以下修改： 详细教程可参考：[SearchMusic教程的语音配置部分](https://rq4rfacax27.feishu.cn/wiki/L4zFwQmbKiZezlkQ26jckBkcnod?fromScene=spaceOverview)
